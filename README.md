@@ -1,3 +1,6 @@
+heyo/hallo/coucou/היי!
+welcome to my repo garbage
+
 to-do
 - [ ] build things
 - [x] teach people how to build things
