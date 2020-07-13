@@ -1,4 +1,5 @@
-heyo/hallo/coucou/היי!
+heyo/hallo/coucou/<span style="font-family:Papyrus; font-size:4em;">היי</span>
+
 welcome to my repo garbage
 
 to-do
