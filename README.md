@@ -1,4 +1,4 @@
-heyo/hallo/coucou/<span style="font-family:Papyrus; font-size:4em;">היי</span>
+
 
 welcome to my repo garbage
 
@@ -12,10 +12,17 @@ i use github like my closet rather than my portfolio, i put everything i gather 
 
 
 
+//languages
+![](https://img.shields.io/badge/LANGUAGES-English-GREEN)
+![](https://img.shields.io/badge/LANGUAGES-Turkish-GREEN)
+![](https://img.shields.io/badge/LANGUAGES-French-Yellow)
+![](https://img.shields.io/badge/LANGUAGES-Spanish-Yellow)
 
 
+//interests
 
 
+//programming langs
 
 
 
