@@ -38,6 +38,8 @@ medicine,linguistics,research,severe weather meteorology
 //could be nice if you could provide me with something [paypal ](https://paypal.me/hakancangunerli?locale.x=en_US "paypal me")[cashapp](https://cash.app/$HakanCanGunerli "paypal me")
 
 
+//website:
+[more info here](https://john.tal-labs.com/ "website")
 
 
 
