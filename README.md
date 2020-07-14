@@ -15,8 +15,8 @@ i use github like my closet rather than my portfolio, i put everything i gather 
 //languages
 ![](https://img.shields.io/badge/English-5/5-green)
 ![](https://img.shields.io/badge/Turkish-5/5-green)
-![](https://img.shields.io/badge/French-2/5-yellow)
-![](https://img.shields.io/badge/Spanish-3/5-yellow)
+![](https://img.shields.io/badge/Spanish-2/5-yellow)
+![](https://img.shields.io/badge/French-1/5-yellow)
 ![](https://img.shields.io/badge/Hebrew-0/5-red)
 
 
