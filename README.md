@@ -20,16 +20,22 @@ i use github like my closet rather than my portfolio, i put everything i gather 
 ![](https://img.shields.io/badge/Hebrew-0/5-red)
 
 
-//interests
+//interests 
+medicine,linguistics,research,severe weather meteorology
+
 
 
 //programming langs
+![](https://img.shields.io/badge/proficient-python,javascript-green)
+![](https://img.shields.io/badge/familiar-java,latex-yellow)
 
 
 
 
 
 
+
+//could be nice if you could provide me with something [paypal ](https://paypal.me/hakancangunerli?locale.x=en_US "paypal me")[cashapp](https://cash.app/$HakanCanGunerli "paypal me")
 
 
 
