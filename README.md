@@ -7,7 +7,7 @@ to-do
 - [x] teach people how to build things
 - [ ] build things with people whom you've taught how to build things
 
-<i>"Edison used a dogged and systematic exploratory process. He tried to isolate useful materials—his stockroom was replete with everything from copper wire to horses’ hoofs and rams’ horns—until he happened upon a patentable, and marketable, combination."</i><sup>(1)</sup>
+<i>Edison used a dogged and systematic exploratory process. He tried to isolate useful materials—his stockroom was replete with everything from copper wire to horses’ hoofs and rams’ horns—until he happened upon a patentable, and marketable, combination.</i><sup>(1)</sup>
 
 
 
@@ -35,11 +35,6 @@ here's my [twitter](https://twitter.com/hakancangunerli)!
 
 
 here's my [linkedIn](https://www.linkedin.com/in/hakancangunerli)!
-
-
-
-
-//could be nice if you could provide me with something [paypal ](https://paypal.me/hakancangunerli?locale.x=en_US "paypal me")[cashapp](https://cash.app/$HakanCanGunerli "paypal me")
 
 
 //website:
