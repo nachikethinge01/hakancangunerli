@@ -7,7 +7,7 @@ to-do
 - [x] teach people how to build things
 - [ ] build things with people whom you've taught how to build things
 
-i use github like my closet rather than my portfolio, i put everything i gather from the internet, and try to put them together like edison did, <i>"Edison used a dogged and systematic exploratory process. He tried to isolate useful materials—his stockroom was replete with everything from copper wire to horses’ hoofs and rams’ horns—until he happened upon a patentable, and marketable, combination."</i><sup>(1)</sup>
+<i>"Edison used a dogged and systematic exploratory process. He tried to isolate useful materials—his stockroom was replete with everything from copper wire to horses’ hoofs and rams’ horns—until he happened upon a patentable, and marketable, combination."</i><sup>(1)</sup>
 
 
 
@@ -25,12 +25,16 @@ medicine,linguistics,research,severe weather meteorology
 
 
 
-//programming langs
+programming langs,
 ![](https://img.shields.io/badge/proficient-python,javascript-green)
 ![](https://img.shields.io/badge/familiar-java,latex-yellow)
 
 
 
+here's my [twitter](https://twitter.com/hakancangunerli)!
+
+
+here's my [linkedIn](https://www.linkedin.com/in/hakancangunerli)!
 
 
 
@@ -43,17 +47,5 @@ medicine,linguistics,research,severe weather meteorology
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<sup>(1)</sup>The Idea Factory: Bell Labs and the Great Age of American Innovation, by Jon Gertner, Penguin Books, 2013.
 
 
