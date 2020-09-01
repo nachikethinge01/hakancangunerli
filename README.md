@@ -11,29 +11,13 @@ to-do
 
 
 
-
-//languages
-![](https://img.shields.io/badge/English-5/5-green)
-![](https://img.shields.io/badge/Turkish-5/5-green)
-![](https://img.shields.io/badge/Spanish-2/5-yellow)
-![](https://img.shields.io/badge/French-1/5-yellow)
-![](https://img.shields.io/badge/Hebrew-0/5-red)
-
-
 //interests 
 medicine,linguistics,research,severe weather meteorology
 
 
 
-programming langs,
-![](https://img.shields.io/badge/proficient-python,javascript-green)
-![](https://img.shields.io/badge/familiar-java,latex-yellow)
-
-
-
 here's my [twitter](https://twitter.com/hakancangunerli)!
-
-
+here's my [whatsapp](https://wa.me/14703882623?text=I%20got%20your%20number%20from%20GitHub)! /[telegram](https://t.me/hakancangunerli)!
 here's my [linkedIn](https://www.linkedin.com/in/hakancangunerli)!
 
 
@@ -41,6 +25,7 @@ here's my [linkedIn](https://www.linkedin.com/in/hakancangunerli)!
 [more info here](https://john.tal-labs.com/ "website")
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
