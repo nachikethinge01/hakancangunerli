@@ -25,7 +25,5 @@ here's my [linkedIn](https://www.linkedin.com/in/hakancangunerli)!
 website:[more info here](https://john.tal-labs.com/ "website")
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
