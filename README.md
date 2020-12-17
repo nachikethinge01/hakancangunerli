@@ -11,10 +11,6 @@ to-do
 
 
 
-//interests 
-medicine,linguistics,research,severe weather meteorology
-
-
 
 here's my [twitter](https://twitter.com/hakancangunerli)!
 
