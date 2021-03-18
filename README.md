@@ -1,6 +1,6 @@
 
 
-hi, i'm can or john or hakan. depends we met
+hi, i'm can or john or hakan. depends where we met
 
 i'm an experimentalist, and i use my github in that fashion too. the code you see here could vanish any minute, and they might not work at all. be advised. 
 
