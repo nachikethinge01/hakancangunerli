@@ -16,9 +16,9 @@ currently gaining experience with these, <br>
 
 embedded stuff i've been working on, 
 <br> 
-<img src="https://img.icons8.com/ios/100/000000/arduino.png" alt="cpp" width="40" height="40"/>
-<img src="https://img.icons8.com/android/96/000000/x86.png" alt="cpp" width="40" height="40"/>
-<img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="cpp" width="40" height="50"/>
+<img src="https://img.icons8.com/ios/100/000000/arduino.png" alt="arduino" width="40" height="40"/>
+<img src="https://img.icons8.com/android/96/000000/x86.png" alt="x86" width="40" height="40"/>
+<img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="RPI" width="40" height="50"/> 
 
 
 
