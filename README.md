@@ -18,8 +18,8 @@ currently gaining experience with these, <br>
 not an CSE, but i've been working on some embedded stuff
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<img src="https://img.icons8.com/ios/100/000000/arduino.png" alt="arduino" width="40" height="40"/>
-<img src="https://img.icons8.com/android/96/000000/x86.png" alt="x86" width="40" height="40"/>
+<img src="https://img.icons8.com/fluent/96/000000/arduino.png" alt="arduino" width="40" height="40"/>
+<img src="https://img.icons8.com/office/80/000000/x86.png" alt="x86" width="40" height="40"/>
 <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="RPI" width="40" height="50"/>
 </a>
 
