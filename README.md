@@ -17,7 +17,7 @@ currently gaining experience with these, <br>
 
 not an CSE, but i've been working on some embedded stuff
 <br>
-<a alt="haha, you can't click on these" onclick="return false;" >
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <img src="https://img.icons8.com/ios/100/000000/arduino.png" alt="arduino" width="40" height="40"/>
 <img src="https://img.icons8.com/android/96/000000/x86.png" alt="x86" width="40" height="40"/>
 <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="RPI" width="40" height="50"/>
@@ -43,6 +43,6 @@ width="40" height="40"/> </a>
 // codebases besides github, most of them are private
 
 <a href="https://www.kaggle.com/hakancangunerli/"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="kaggle" width="40" height="40"/> </a>
-<a href="bitbucket.com/hakancangunerli" > <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="bitbucket" width="40" height="40" /> </a>
+<a href="https://bitbucket.com/hakancangunerli" > <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="bitbucket" width="40" height="40" /> </a>
 <a href="https://gitlab.com/hakancangunerli
 "> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="40" height="40"/>
