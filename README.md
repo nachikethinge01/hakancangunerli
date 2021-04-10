@@ -37,7 +37,7 @@ width="40" height="40"/> </a>
 
 // read about me, i write stuff sometimes.
 
-<a href="twitter.com/hakancangunerli" > <img src="https://img.icons8.com/officel/160/000000/twitter.png" alt="twitter" width="40" height="40" /> </a>
+<a href="https://twitter.com/hakancangunerli" > <img src="https://img.icons8.com/officel/160/000000/twitter.png" alt="twitter" width="40" height="40" /> </a>
 <a href="https://dev.to/hakancangunerli"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="devto link" width="40" height="40"/> </a>
 
 // codebases besides github, most of them are private
