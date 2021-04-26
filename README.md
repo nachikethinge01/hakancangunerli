@@ -1,7 +1,6 @@
-<a href="https://youtu.be/WPQSVUjeHfw">  
-<img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp
-" alt="c" width="20" height="20"/>the code you see here could vanish any minute, and they might not work at all. be advised. </a> <img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp
-" alt="oh fuck" width="20" height="20"/>
+<a href="https://youtu.be/WPQSVUjeHfw"> 
+<img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp" alt="this code does not work." width="20" height="20"/> the code you see here could vanish any minute, and they might not work at all. be advised. </a> 
+<img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp" alt="oh fuck" width="20" height="20"/>
 
 hi, i'm can or john or hakan. depends where we met.i'm an experimentalist, and i use my github in that fashion too.
 
