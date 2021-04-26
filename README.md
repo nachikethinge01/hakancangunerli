@@ -1,6 +1,9 @@
-hi, i'm can or john or hakan. depends where we met
+<a href="https://youtu.be/WPQSVUjeHfw">  
+<img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp
+" alt="c" width="20" height="20"/>the code you see here could vanish any minute, and they might not work at all. be advised. </a> <img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp
+" alt="oh fuck" width="20" height="20"/>
 
-i'm an experimentalist, and i use my github in that fashion too. the code you see here could vanish any minute, and they might not work at all. be advised.
+hi, i'm can or john or hakan. depends where we met.i'm an experimentalist, and i use my github in that fashion too.
 
 have experience with these, <br>
 <a href="https://github.com/hakancangunerli?tab=repositories&q=&type=&language=python&sort=">
@@ -27,7 +30,7 @@ not an CSE, but i've been working on some embedded stuff
 
 <i>Edison used a dogged and systematic exploratory process. He tried to isolate useful materials—his stockroom was replete with everything from copper wire to horses’ hoofs.</i>
 
-// contact me. i mean, if you want to?
+ contact me. i mean, if you want to? 👉👈 
 
 <a href="https://john.tal-labs.com/"> <img src="https://icongr.am/devicon/chrome-original.svg?size=128&color=currentColor" alt="web" 
 width="40" height="40"/> </a>
@@ -35,12 +38,12 @@ width="40" height="40"/> </a>
 <a href="https://t.me/hakancangunerli"> <img src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" alt="telegram" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/hakancangunerli"> <img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="linkedin" width="40" height="40"/> </a>
 
-// read about me, i write stuff sometimes.
+ read about me, i write stuff sometimes.
 
 <a href="https://twitter.com/hakancangunerli" > <img src="https://img.icons8.com/officel/160/000000/twitter.png" alt="twitter" width="40" height="40" /> </a>
 <a href="https://dev.to/hakancangunerli"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="devto link" width="40" height="40"/> </a>
 
-// codebases besides github, most of them are private
+ codebases besides github, most of them are private
 
 <a href="https://www.kaggle.com/hakancangunerli/"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="kaggle" width="40" height="40"/> </a>
 <a href="https://bitbucket.com/hakancangunerli" > <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="bitbucket" width="40" height="40" /> </a>
