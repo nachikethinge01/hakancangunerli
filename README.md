@@ -24,7 +24,7 @@ not an CSE, but i've been working on some embedded stuff
 <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="RPI" width="40" height="50"/>
 </a>
 
-contact me. i mean, if you want to? 👉👈
+### contact me. i mean, if you want to? 👉👈
 
 <a href="https://john.tal-labs.com/"> <img src="https://icongr.am/devicon/chrome-original.svg?size=128&color=currentColor" alt="web" 
 width="40" height="40"/> </a>
