@@ -39,7 +39,7 @@ not an CSE, but i've been working on some embedded stuff
 
 ### codebases besides github, most of them are private,
 
-<a href="https://bitbucket.com/hakancangunerli" > <img src="	https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket" /> </a>
+<a href="https://bitbucket.com/hakancangunerli" > <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket" /> </a>
 <a href="https://www.kaggle.com/hakancangunerli/"> <img src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /> </a>
 <a href="https://gitlab.com/hakancangunerli
 "> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
