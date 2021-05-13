@@ -21,7 +21,7 @@ not an CSE, but i've been working on some embedded stuff
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <img src="https://img.shields.io/badge/x86-0A0A0A?style=for-the-badge&logo=assembly&logoColor=white" alt="x86" />
 <img src="https://img.shields.io/badge/Arduino-00979c?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
-<img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=assembly&logoColor=white" alt="RPI" />
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </a>
 
 ### contact me. i mean, if you want to? 👉👈
