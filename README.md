@@ -13,7 +13,7 @@ have experience with these, <br>
 currently gaining experience with these, <br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
 </a>
-<a href="https://github.com/hakancangunerli?tab=repositories&q=&type=&language=javascript&sort=" > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
+<a href="https://github.com/hakancangunerli?tab=repositories&q=&type=&language=typescript&sort=" > <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
 </a>
 
 not an CSE, but i've been working on some embedded stuff
