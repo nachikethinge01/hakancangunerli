@@ -2,52 +2,51 @@ I talk to computers, sometimes they listen.
 
 <a href="https://youtu.be/WPQSVUjeHfw"> 
  <img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp" alt="this code does not work." width="20" height="20"/> the code you see here could vanish any minute, and they might not work at all. be advised.  <img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp" alt="oh fuck" width="20" height="20"/></a>
-
-hi, i'm can or john or hakan. depends where we met. i'm an experimentalist, and i use my github in that fashion too.
-
-have experience with these, <br>
-<a href="https://github.com/hakancangunerli?tab=repositories&q=&type=&language=python&sort=">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-</a> 
- <a href="https://github.com/hakancangunerli?tab=repositories&q=&type=&language=java&sort="> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-</a> <a href="https://github.com/hakancangunerli/cant"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" /></a>
-
-currently gaining experience with these, <br>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
-</a>
-<a href="https://github.com/hakancangunerli?tab=repositories&q=&type=&language=typescript&sort=" > <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
-</a>
-
-not an CSE, but i've been working on some embedded stuff
 <br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<img src="https://img.shields.io/badge/x86-0A0A0A?style=for-the-badge&logo=assembly&logoColor=white" alt="x86" />
-<img src="https://img.shields.io/badge/Arduino-00979c?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-</a>
+My name is Hakan Can Gunerli. Well, my government name is that, I go by John here. I'm passionate about the Human side of Computer Science, particularly working towards how humans interact with computers and computer-based systems like Robots and the internet.
 
-### contact me. i mean, if you want to? 👉👈
+<br> 
+<br>
+💻 I'm currently a student at the University of Georgia, studying Computer Science. I'm planning to graduate a semester early compared to my peers, but I'm not sure if I'll be able to do that. I'm currently a candidate for the Masters of Science in Computer Science combined program at the University of Georgia.
 
-<a href="https://john.tal-labs.com/"> <img src="https://img.shields.io/badge/own%20website-FF5722?style=for-the-badge&logo=website&logoColor=white" alt="web" 
-/> </a>
-<a href="https://wa.me/14703882623?text=I%20got%20your%20number%20from%20GitHub" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"  />
-<a href="https://t.me/hakancangunerli"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-<a href="https://www.linkedin.com/in/hakancangunerli"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
 
-### read about me, i write stuff sometimes,
+<div align=left>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  
+  
+Technologies: 
 
-<a href="https://twitter.com/hakancangunerli" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
-<a href="https://dev.to/hakancangunerli"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
+Web Stack:   
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 
-### codebases besides github, most of them are private,
 
-<a href="https://bitbucket.com/hakancangunerli" > <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket" /> </a>
-<a href="https://www.kaggle.com/hakancangunerli/"> <img src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /> </a>
-<a href="https://gitlab.com/hakancangunerli
-"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
+General Purpose: 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
-[![cna](https://github-readme-stats.vercel.app/api?username=hakancangunerli&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+Library: 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
-<i>Edison used a dogged and systematic exploratory process. He tried to isolate useful materials—his stockroom was replete with everything from copper wire to horses’ hoofs.</i>
+Others: 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat-square&logo=spyder%20ide&logoColor=maroon)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk-->
+Software: 
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  
