@@ -9,16 +9,15 @@ My name is Hakan Can Gunerli. Well, my government name is that, I go by John her
 <br>
 💻 I'm currently a student at the Georgia Institute of Technology, studying Computer Science. I'm planning to graduate a semester early compared to my peers, but I'm not sure if I'll be able to do that given this is my third college transfer in the past 2 years. 
 
-
-<div align=left>
+<div style="display: flex; justify-content: space-around">
+<div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&hide=c%23,ShaderLab,Makefile,HLSL,HTML&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
-  
-  
-Technologies: 
-
+<div>
+ 
+<div>
+ 
 Web Stack:   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -50,3 +49,5 @@ Software:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   
+ </div>
+ </div>
