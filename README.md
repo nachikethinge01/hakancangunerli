@@ -7,7 +7,7 @@ My name is Hakan Can Gunerli. Well, my government name is that, I go by John her
 
 <br> 
 <br>
-💻 I'm currently a student at the University of Georgia, studying Computer Science. I'm planning to graduate a semester early compared to my peers, but I'm not sure if I'll be able to do that. I'm currently a candidate for the Masters of Science in Computer Science combined program at the University of Georgia.
+💻 I'm currently a student at the Georgia Institute of Technology, studying Computer Science. I'm planning to graduate a semester early compared to my peers, but I'm not sure if I'll be able to do that given this is my third college transfer in the past 2 years. 
 
 
 <div align=left>
